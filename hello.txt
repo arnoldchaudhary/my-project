@@ -1,4 +1,3 @@
-HELLO from feature branch
-how are you?
-I am fine.
-this line added by teammate
+Hello from feature branch
+I am learning Git
+Git is a version control system
